@@ -1,5 +1,7 @@
 # Python_Django
 
+py -m pip install Django==5.0.4
+
 > python manage.py startapp playground
 python manage.py runserver
 
